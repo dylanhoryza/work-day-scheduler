@@ -7,6 +7,7 @@
 
 ## Installation
 To install this application, simply click on this link to open it in the browser.
+https://dylanhoryza.github.io/work-day-scheduler/
 ## Usage
 To use this application, type any tasks or things you need to get done in the corresponding timeblock. Click the save icon to save your data. Green timeblocks show future events, red shows current, and grey shows past.
    
